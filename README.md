@@ -9,9 +9,7 @@
 * _React_
 
 ## Description
-...
-/src/index.jsimg/example#1.png
-...
+![alt text](https://github.com/liliiakryvelova/Toggle_An_ElementOfArray/blob/main/src/img/example%231.png)
 
 ## Setup/Installation Requirements
 
