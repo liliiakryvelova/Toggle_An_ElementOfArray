@@ -9,7 +9,9 @@
 * _React_
 
 ## Description
-![My Image](/src/index.jsimg/example#1.png)
+...
+/src/index.jsimg/example#1.png
+...
 
 ## Setup/Installation Requirements
 
