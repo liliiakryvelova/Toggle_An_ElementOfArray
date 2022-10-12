@@ -9,7 +9,7 @@
 * _React_
 
 ## Description
-
+![My Image](example#1.png)
 
 ## Setup/Installation Requirements
 
